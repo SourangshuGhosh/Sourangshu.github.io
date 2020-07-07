@@ -1,5 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My Page
 
+I am a fourth year undergraduate student of the department of civil engineering enrolled in its Dual Degree Program in Indian Institue of Technology Kharagpur.
 You can use the [editor on GitHub](https://github.com/SourangshuGhosh/SourangshuGhosh.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
