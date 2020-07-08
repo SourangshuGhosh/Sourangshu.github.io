@@ -18,14 +18,14 @@ All of my works are basically scientific computing projects. I mostly interested
 
 1. **Stochastic Reactive Brownian Dynamics**
 
-![](https://github.com/SourangshuGhosh/SourangshuGhosh.github.io/blob/master/Pictures/SRBD.jpg)
+![](https://raw.githubusercontent.com/SourangshuGhosh/SourangshuGhosh.github.io/master/Pictures/SRBD.jpg)
 <br />We develop a Split Reactive Brownian Dynamics (SRBD) algorithm for particle simulations of reaction-diffusion systems based on the Doi or volume reactivity model, in which pairs of particles react with a specified Poisson rate if they are closer than a chosen reactive distance. In our Doi model, we ensure that the microscopic reaction rules for various association and dissociation reactions are consistent with detailed balance (time reversibility) at thermodynamic equilibrium. The SRBD algorithm uses Strang splitting in time to separate reaction and diffusion, and solves both the diffusion-only and reaction-only subproblems exactly, even at high packing densities. To efficiently process reactions without uncontrolled approximations, SRBD employs an event-driven algorithm that processes reactions in a time-ordered sequence over the duration of the time step. A grid of cells with size larger than all of the reactive distances is used to schedule and process the reactions, but unlike traditional grid-based methods such as Reaction-Diffusion Master Equation (RDME) algorithms, the results of SRBD are statistically independent of the size of the grid used to accelerate the processing of reactions. We use the SRBD algorithm to compute the effective macroscopic reaction rate for both reaction- and diffusion-limited irreversible association in three dimensions, and compare to existing theoretical predictions at low and moderate densities. We also study long-time tails in the time correlation functions for reversible association at thermodynamic equilibrium, and compare to recent theoretical predictions. Finally, we compare different particle and continuum methods on a model exhibiting a Turing-like instability and pattern formation. Our studies reinforce the common finding that microscopic mechanisms and correlations matter for diffusion-limited systems, making continuum and even mesoscopic modeling of such systems difficult or impossible. We also find that for models in which particles diffuse off lattice, such as the Doi model, reactions lead to a spurious enhancement of the effective diffusion coefficients.
 
 The links to the Github Repository is [https://github.com/SourangshuGhosh/Stochastic\_Reactive\_Brownian\_Dynamics](https://github.com/SourangshuGhosh/Stochastic_Reactive_Brownian_Dynamics)
 
 2. **FORM( First Order Reliability Methods)**
 
-![](https://github.com/SourangshuGhosh/SourangshuGhosh.github.io/blob/master/Pictures/FORM.jpg)
+![](https://raw.githubusercontent.com/SourangshuGhosh/SourangshuGhosh.github.io/master/Pictures/FORM.jpg)
 <br />The first-order reliability method (FORM) has been widely used in structural reliability estimation applications. The method involves Taylor expansion of the failure function, i.e. the linearization of the limit state equation, not performed around the mean value of the function, but at a point that is called the &#39;most probable failure point&#39;. The selection of an appropriate linearization point is an important consideration (Ang and Tang, 1984), and actually leads to an iterative solving procedure.
 
 Based on the underlying theory and adopting the method proposed by Hasofer and Lind, the following is a summary of the selection procedure. The process starts with the transformation of the non-normal variables to standard normal variables with zero mean and unit variance (Madsen _et al.,_ 1986), using the Rosenblatt transformation (see also Ang and Tang, 1984). The target is to find the most probable failure point, i.e. the point on the failure locus that defines the minimum distance of the limit state surface from the origin in the space of the reduced variables (Shinozuka, 1983). The shortest distance between the failure surface and the origin in the space of the reduced variables is called the reliability index _β_.
@@ -53,12 +53,12 @@ The links to the Github Repository is[https://github.com/SourangshuGhosh/Seismic
 5. **COVID-19 Model by SIR method**
 6. **Stein Variational Gradient Descent(SVGD)**
 
-![](https://github.com/SourangshuGhosh/SourangshuGhosh.github.io/blob/master/Pictures/SVGD.png)
+![](https://raw.githubusercontent.com/SourangshuGhosh/SourangshuGhosh.github.io/master/Pictures/SVGD.png)
 <br />We propose a general purpose variational inference algorithm that forms a natural counterpart of gradient descent for optimization. Our method iteratively transports a set of particles to match the target distribution, by applying a form of functional gradient descent that minimizes the KL divergence. Empirical studies are performed on various real world models and datasets, on which our method is competitive with existing state-of-the-art methods. The derivation of our method is based on a new theoretical result that connects the derivative of KL divergence under smooth transforms with Stein&#39;s identity and a recently proposed kernelized Stein discrepancy, which is of independent interest. The repository was build based upon the paper &quot;Stein Variational Gradient Descent: A General Purpose Bayesian Inference Algorithm&quot; by [Qiang Liu](https://arxiv.org/search/stat?searchtype=author&amp;query=Liu%2C+Q), [Dilin Wang](https://arxiv.org/search/stat?searchtype=author&amp;query=Wang%2C+D)
 
 7. **N-gram Model**
 
-![](https://github.com/SourangshuGhosh/SourangshuGhosh.github.io/blob/master/Pictures/NGRAM.png)
+![](https://raw.githubusercontent.com/SourangshuGhosh/SourangshuGhosh.github.io/master/Pictures/NGRAM.png)
 <br />Given a sequence of N-1 words, an N-gram model predicts the most probable word that might follow this sequence. It&#39;s a probabilistic model that&#39;s trained on a corpus of text. Such a model is useful in many NLP applications including speech recognition, machine translation and predictive text input.An N-gram model is built by counting how often word sequences occur in corpus text and then estimating the probabilities. Since a simple N-gram model has limitations, improvements are often made via smoothing, interpolation and backoff.
 
 An N-gram model is one type of a **Language Model (LM)**, which is about finding the probability distribution over word sequences.
@@ -67,7 +67,7 @@ The links to the Github Repository is[https://github.com/SourangshuGhosh/N-gram]
 
 8. **Bag of Words Model**
 
-![](https://github.com/SourangshuGhosh/SourangshuGhosh.github.io/blob/master/Pictures/BAGWORDS.png)
+![](https://raw.githubusercontent.com/SourangshuGhosh/SourangshuGhosh.github.io/master/Pictures/BAGWORDS.png)
 <br />The  **bag-of-words model**  is a simplifying representation used in natural language processing an information retreival (IR). In this model, a text (such as a sentence or a document) is represented as the  bag(multiset) of its words, disregarding grammar and even word order but keeping multiplicity. The bag-of-words model has also been used for computer vision. The bag-of-words model is commonly used in methods of document classification where the (frequency of) occurrence of each word is used as a feature for training a classifier. In practice, the Bag-of-words model is mainly used as a tool of feature generation. After transforming the text into a &quot;bag of words&quot;, we can calculate various measures to characterize the text. The most common type of characteristics, or features calculated from the Bag-of-words model is term frequency, namely, the number of times a term appears in the text. For the example above, we can construct the following two lists to record the term frequencies of all the distinct words (BoW1 and BoW2 ordered as in BoW3):
 
 (1) [1, 2, 1, 1, 2, 1, 1, 0, 0, 0]
