@@ -47,12 +47,12 @@ The links to the Github Repository is[https://github.com/SourangshuGhosh/FORM](h
 5. **COVID-19 Model by SIR method**
 6. **Stein Variational Gradient Descent(SVGD)**
 
-<br />![](https://github.com/SourangshuGhosh/SourangshuGhosh.github.io/blob/master/Pictures/SVGD.jpg)
+<br />![](https://github.com/SourangshuGhosh/SourangshuGhosh.github.io/blob/master/Pictures/SVGD.png)
 We propose a general purpose variational inference algorithm that forms a natural counterpart of gradient descent for optimization. Our method iteratively transports a set of particles to match the target distribution, by applying a form of functional gradient descent that minimizes the KL divergence. Empirical studies are performed on various real world models and datasets, on which our method is competitive with existing state-of-the-art methods. The derivation of our method is based on a new theoretical result that connects the derivative of KL divergence under smooth transforms with Stein&#39;s identity and a recently proposed kernelized Stein discrepancy, which is of independent interest. The repository was build based upon the paper &quot;Stein Variational Gradient Descent: A General Purpose Bayesian Inference Algorithm&quot; by [Qiang Liu](https://arxiv.org/search/stat?searchtype=author&amp;query=Liu%2C+Q), [Dilin Wang](https://arxiv.org/search/stat?searchtype=author&amp;query=Wang%2C+D)
 
 7. **N-gram Model**
 
-<br />![](https://github.com/SourangshuGhosh/SourangshuGhosh.github.io/blob/master/Pictures/NGRAM.jpg)
+<br />![](https://github.com/SourangshuGhosh/SourangshuGhosh.github.io/blob/master/Pictures/NGRAM.png)
 Given a sequence of N-1 words, an N-gram model predicts the most probable word that might follow this sequence. It&#39;s a probabilistic model that&#39;s trained on a corpus of text. Such a model is useful in many NLP applications including speech recognition, machine translation and predictive text input.An N-gram model is built by counting how often word sequences occur in corpus text and then estimating the probabilities. Since a simple N-gram model has limitations, improvements are often made via smoothing, interpolation and backoff.
 
 An N-gram model is one type of a **Language Model (LM)**, which is about finding the probability distribution over word sequences.
@@ -61,7 +61,7 @@ The links to the Github Repository is[https://github.com/SourangshuGhosh/N-gram]
 
 8. **Bag of Words Model**
 
-<br />![](https://github.com/SourangshuGhosh/SourangshuGhosh.github.io/blob/master/Pictures/BAGWORDS.jpg)
+<br />![](https://github.com/SourangshuGhosh/SourangshuGhosh.github.io/blob/master/Pictures/BAGWORDS.png)
 The  **bag-of-words model**  is a simplifying representation used in natural language processing an information retreival (IR). In this model, a text (such as a sentence or a document) is represented as the  bag(multiset) of its words, disregarding grammar and even word order but keeping multiplicity. The bag-of-words model has also been used for computer vision. The bag-of-words model is commonly used in methods of document classification where the (frequency of) occurrence of each word is used as a feature for training a classifier. In practice, the Bag-of-words model is mainly used as a tool of feature generation. After transforming the text into a &quot;bag of words&quot;, we can calculate various measures to characterize the text. The most common type of characteristics, or features calculated from the Bag-of-words model is term frequency, namely, the number of times a term appears in the text. For the example above, we can construct the following two lists to record the term frequencies of all the distinct words (BoW1 and BoW2 ordered as in BoW3):
 
 (1) [1, 2, 1, 1, 2, 1, 1, 0, 0, 0]
