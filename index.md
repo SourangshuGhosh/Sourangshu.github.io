@@ -1,6 +1,6 @@
 ## Welcome to My Page
-<pre>
-# **About Me**                  **[Awards](https://sourangshughosh.github.io/Awards)**       **[Projects](https://sourangshughosh.github.io/Projects)**  
+
+# **About Me**         &nbsp         **[Awards](https://sourangshughosh.github.io/Awards)**   &nbsp    **[Projects](https://sourangshughosh.github.io/Projects)**  
 
 ![](https://raw.githubusercontent.com/SourangshuGhosh/SourangshuGhosh.github.io/master/Pictures/me%20(1).jpg)
 
@@ -90,4 +90,4 @@ Some more repositories developed by me are
 4. **Structural Reliability**
 5. **Stochastic Seismic Generator**
 6. **Cartesian Genetic Programming**
-</pre>
+
