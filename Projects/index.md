@@ -1,92 +1,122 @@
 ## Welcome to My Page
 
-# **About Me**
+# **Projects Done**
 
-![](https://raw.githubusercontent.com/SourangshuGhosh/SourangshuGhosh.github.io/master/Pictures/me%20(1).jpg)
+**IIT Kharagpur**
 
-I am a fourth year undergraduate student of the department of civil engineering enrolled in its Dual Degree Program in **Indian institute of Technology Kharagpur, West Bengal, India** mostly knows to all as IIT KGP. I am also doing my minors in Mathematics and Computing in its Master of Science program. Apart from these I have been working under various professors of my university in various research projects. I have been mostly collaborating in my research works with Dr. Baidurya Bhattacharya, Professor, Department of Civil Engineering, IIT KGP.
+**Statistical Theory of Strength of Bundles of Threads                                                                                     March 2020 – Present**
 
-## **Contact Details**
+• The object of the work is to study the probability distribution of the strength of bundles whose constituent threads are sampled randomly from an infinite population of threads in which the probability distribution of strength is known.
 
-Personal Email ID: [sourangshug123@gmail.com](mailto:sourangshug123@gmail.com) Institute Email ID: [sourangshu@iitkgp.ac.in](mailto:sourangshu@iitkgp.ac.in)
+• We have also tried to understood the properties of the probability distribution of bundle, where the attention is being confined to the case where all threads have the same load extension curve up to the breaking point.
 
-Phone Number: 7063068190
+• We have also explored the asymptotic behaviour of the distribution for large number of threads and trying to show that in the commonest cases the distribution tends to assume the normal form.
 
-## **My Research Works and Interests**
+**IIT Kharagpur**
 
-All of my works are basically scientific computing projects. I mostly interested in application of various Stochastic and Probabilistic Methods/Models in Real Life Problems. Apart from that I have also good knowledge in the field of Evolutionary Algorithms and its recent incorporation in Various Machine Learning Algorithms. I mostly do my coding works in Fortran, C/C++/MATLAB and Python. All of my codes are uploaded as Github Repositories. My Github Profile can be seen by clicking here [https://github.com/SourangshuGhosh](https://github.com/SourangshuGhosh) . This website contains all the links to the various repositories/topics and explains how it works and what they are meant for
+**Stochastic modelling and molecular dynamics simulation of fatigue damage in Metals                                                  August 2018 - February 2020**
 
-1. **Stochastic Reactive Brownian Dynamics**
+• In this research project we aim to stochastic-ally determine the fatigue crack propagation in crucial metal weld joints that are used in Nuclear power plant of IGCAR Kalpakkam.
 
-![](https://raw.githubusercontent.com/SourangshuGhosh/SourangshuGhosh.github.io/master/Pictures/SRBD.jpg)
-<br />We develop a Split Reactive Brownian Dynamics (SRBD) algorithm for particle simulations of reaction-diffusion systems based on the Doi or volume reactivity model, in which pairs of particles react with a specified Poisson rate if they are closer than a chosen reactive distance. In our Doi model, we ensure that the microscopic reaction rules for various association and dissociation reactions are consistent with detailed balance (time reversibility) at thermodynamic equilibrium. The SRBD algorithm uses Strang splitting in time to separate reaction and diffusion, and solves both the diffusion-only and reaction-only subproblems exactly, even at high packing densities. To efficiently process reactions without uncontrolled approximations, SRBD employs an event-driven algorithm that processes reactions in a time-ordered sequence over the duration of the time step. A grid of cells with size larger than all of the reactive distances is used to schedule and process the reactions, but unlike traditional grid-based methods such as Reaction-Diffusion Master Equation (RDME) algorithms, the results of SRBD are statistically independent of the size of the grid used to accelerate the processing of reactions. We use the SRBD algorithm to compute the effective macroscopic reaction rate for both reaction- and diffusion-limited irreversible association in three dimensions, and compare to existing theoretical predictions at low and moderate densities. We also study long-time tails in the time correlation functions for reversible association at thermodynamic equilibrium, and compare to recent theoretical predictions. Finally, we compare different particle and continuum methods on a model exhibiting a Turing-like instability and pattern formation. Our studies reinforce the common finding that microscopic mechanisms and correlations matter for diffusion-limited systems, making continuum and even mesoscopic modeling of such systems difficult or impossible. We also find that for models in which particles diffuse off lattice, such as the Doi model, reactions lead to a spurious enhancement of the effective diffusion coefficients.
+• We have successfully created a Reliability software which can successfully determine the reliability based on present crack growth information and also load history into which the weld is subjected into.
 
-The links to the Github Repository is [https://github.com/SourangshuGhosh/Stochastic\_Reactive\_Brownian\_Dynamics](https://github.com/SourangshuGhosh/Stochastic_Reactive_Brownian_Dynamics)
+• This software can be used both to model various types of loads and also predict in advance the required safe limit of crack size for future safety and reliabilty of structure.
 
-2. **FORM( First Order Reliability Methods)**
+**CSIR-CMERI Durgapur**
 
-![](https://raw.githubusercontent.com/SourangshuGhosh/SourangshuGhosh.github.io/master/Pictures/FORM.jpg)
-<br />The first-order reliability method (FORM) has been widely used in structural reliability estimation applications. The method involves Taylor expansion of the failure function, i.e. the linearization of the limit state equation, not performed around the mean value of the function, but at a point that is called the &#39;most probable failure point&#39;. The selection of an appropriate linearization point is an important consideration (Ang and Tang, 1984), and actually leads to an iterative solving procedure.
+**Stochastic Simulation Algorithm for Robust Reliability Updating of Structural Dynamic Systems                                           May 2018 - July 2018**
 
-Based on the underlying theory and adopting the method proposed by Hasofer and Lind, the following is a summary of the selection procedure. The process starts with the transformation of the non-normal variables to standard normal variables with zero mean and unit variance (Madsen _et al.,_ 1986), using the Rosenblatt transformation (see also Ang and Tang, 1984). The target is to find the most probable failure point, i.e. the point on the failure locus that defines the minimum distance of the limit state surface from the origin in the space of the reduced variables (Shinozuka, 1983). The shortest distance between the failure surface and the origin in the space of the reduced variables is called the reliability index _β_.
+• Worked on an algorithm for updating the robust structural reliability so that any particular response of a structural dynamic system will not reach some specific failure or unfavorable state when it is subjected to future stochastic excitation.
 
-The point on the failure surface that has the minimum distance from the origin can be found by using, for example, the method of Lagrange multipliers (Ang and Tang, 1984), following an iterative procedure. Given that _β_ is now available, the failure probability of the system can be approximated by:
+• The proposed approach integrates the Gibbs sampler for Bayesian model updating and subset simulation for failure probability computation.
 
-Pf=Φ−β
+**IISc Bangalore**
 
-where Φ(–_β_) is the cumulative distribution of the standard normal variate (Madsen _et al.,_1986).
+**Extraction of Laminar Boundary Layer Parameters from Navier-Stokes Equation                                                          November 2019 - December 2019**
 
-For linear failure functions this solution is exact. For non-linear failure functions, as in the case of the failure function of a composite material layer, the exact calculation of the failure probability or the reliability generally involves mathematical and computational difficulties. Following the reviews by, for example, Eamon _et al._ (2005) and Schueller _et al._ (2004), of various structural reliability methods and their accuracy and effectiveness in solving problems based on the number of random variables and the linearity (or not) of the failure function, FORM can be seen to have limitations for non-linear failure functions having a large number of random variables.
+• Extraction of boundary layer parameters and velocity profile data for a flat plate under zero pressure gradient and comparison with exact solution.
 
-Several algorithms have been proposed for the approximation of the most probable failure point and the _β_ index (see e.g. Ang and Tang, 1984; Madsen _et al.,_ 1986). In a comparison between five algorithms that can be used for the approximation of the most probable failure point (Liu and Der Kiureghian, 1991), the general conclusion is that the decision as to which is the most effective algorithm depends on the failure function of interest. Similarly, in Wang and Grandhi (1994) a new search algorithm is proposed for the estimation of the _β_ index, and its application is compared with other widely used algorithms. An iterative algorithm already applied for composite laminates is described in Madsen _et al._ (1986). However, when a limit state function is not unimodal, that is, if there is more than one local minimum, it is not certain that the global minimum will be obtained. In fact the failure function as described in the previous section is multi-modal (Miki _et al.,_ 1990), and therefore the search algorithm might need modifications. Still, there is no guarantee that the algorithm will converge in all cases, and it is likely that when it is being applied it will produce, for the basic variables, values that are outside of their natural limits (Madsen _et al.,_ 1986).
+• Extraction of boundary layer parameters and pressure distribution data for an NLF (1)-0416 airfoil from a Navier-Stokes solution and comparison with experimental data. • Extraction of boundary layer parameters and pressure distribution data for a N ACA 0028 airfoil and comparison with data from panel method (for pressure distribution) and experimental data (for BL parameters).
 
-The links to the Github Repository is[https://github.com/SourangshuGhosh/FORM](https://github.com/SourangshuGhosh/FORM)
+**CSIR-CDRI Lucknow**
 
-3. **Solution of Three Dimensional Isotropic/Anisotropic Seismic Wave Equation**
+**Statistics**** November 2018 — December 2018** 
+• The objective of the internship was developing new statistical tools which needs to be applied to Biomedical data sets
 
-One of the most popular methods to simulate numerically the seismic wave propagation in an elastic medium is the finite difference method. In the context of numerically modelling in unbounded medium, the wave needs to be absorbed at the artificial boundaries of the computational domain and therefore it is necessary to define non-reflecting conditions at these boundaries to mimic an unbounded medium.
+• We are asked to take one disease,and evaluate every single device approach available for a.Diagnosis b.Monitoring and c.Intervention
 
-The Perfectly Matched Layer(PML) has the remarkable property of having a zero reflection coefficient for all angles of incidence and all frequencies before discretezition and has become widely used( eg Collino and Tsogka 2001). However the reflection coefficient is not zero anymore after the discretezition and becomes even very large at grazing incidence. Therefore an improved version of the PML condition has been developed: the convolution perfectly matched layer condition(CPML) (e.g. Komatitisch and martin 2007). The repository developed is a similar implementation of this in Fortran.
+**IIT Kharagpur**
 
-The links to the Github Repository is[https://github.com/SourangshuGhosh/SeismicAnalyzer](https://github.com/SourangshuGhosh/SeismicAnalyzer)
+**Mechanics of Composite Materials                                                                                                                     May 2019 — July 2019**
 
-4. **Steel Section Properties**
-5. **COVID-19 Model by SIR method**
-6. **Stein Variational Gradient Descent(SVGD)**
+• Worked under Prof. Suresh Chandra Pradhan,Department of Aerospace Engineering,IIT Kharagpur in using Finite Element Analysis of Laminated Composite Beams and Plates to study the mechanical properties and response of unidirectional E-glass in term of tensile, compression and thermal responses using MATLAB Programming.
 
-![](https://raw.githubusercontent.com/SourangshuGhosh/SourangshuGhosh.github.io/master/Pictures/SVGD.png)
-<br />We propose a general purpose variational inference algorithm that forms a natural counterpart of gradient descent for optimization. Our method iteratively transports a set of particles to match the target distribution, by applying a form of functional gradient descent that minimizes the KL divergence. Empirical studies are performed on various real world models and datasets, on which our method is competitive with existing state-of-the-art methods. The derivation of our method is based on a new theoretical result that connects the derivative of KL divergence under smooth transforms with Stein&#39;s identity and a recently proposed kernelized Stein discrepancy, which is of independent interest. The repository was build based upon the paper &quot;Stein Variational Gradient Descent: A General Purpose Bayesian Inference Algorithm&quot; by [Qiang Liu](https://arxiv.org/search/stat?searchtype=author&amp;query=Liu%2C+Q), [Dilin Wang](https://arxiv.org/search/stat?searchtype=author&amp;query=Wang%2C+D)
+• Also assisted in teaching of the Short term course of Composites held in IIT Kharagpur.
 
-7. **N-gram Model**
+**IIT Kharagpur**
 
-![](https://raw.githubusercontent.com/SourangshuGhosh/SourangshuGhosh.github.io/master/Pictures/NGRAM.png)
-<br />Given a sequence of N-1 words, an N-gram model predicts the most probable word that might follow this sequence. It&#39;s a probabilistic model that&#39;s trained on a corpus of text. Such a model is useful in many NLP applications including speech recognition, machine translation and predictive text input.An N-gram model is built by counting how often word sequences occur in corpus text and then estimating the probabilities. Since a simple N-gram model has limitations, improvements are often made via smoothing, interpolation and backoff.
+**Arbitrary cross-section analysis in python                                                                                                          August 2019 — November 2019**
 
-An N-gram model is one type of a **Language Model (LM)**, which is about finding the probability distribution over word sequences.
+• Worked under Prof.Damodar Maity to develop a software written in Python that calculates structural properties for any cross-section imaginable and displays the internal stresses on the section resulting from any combination of design actions.
 
-The links to the Github Repository is[https://github.com/SourangshuGhosh/N-gram](https://github.com/SourangshuGhosh/N-gram)
+• The program applies the finite element method to calculate the following Area Properties of the cross section,Warping and Composite Section Properties.The program allows the user to enter the Axial force,Bending moments about the x and y axes,Bending moments about the principal axes,Torsion moment and Shear forces in the x and y directions
 
-8. **Bag of Words Model**
+• The following stress plots will then be generated: axial, bending, torsion, transverse shear, combined normal, combined shear and von Mises.
 
-![](https://raw.githubusercontent.com/SourangshuGhosh/SourangshuGhosh.github.io/master/Pictures/BAGWORDS.png)
-<br />The  **bag-of-words model**  is a simplifying representation used in natural language processing an information retreival (IR). In this model, a text (such as a sentence or a document) is represented as the  bag(multiset) of its words, disregarding grammar and even word order but keeping multiplicity. The bag-of-words model has also been used for computer vision. The bag-of-words model is commonly used in methods of document classification where the (frequency of) occurrence of each word is used as a feature for training a classifier. In practice, the Bag-of-words model is mainly used as a tool of feature generation. After transforming the text into a &quot;bag of words&quot;, we can calculate various measures to characterize the text. The most common type of characteristics, or features calculated from the Bag-of-words model is term frequency, namely, the number of times a term appears in the text. For the example above, we can construct the following two lists to record the term frequencies of all the distinct words (BoW1 and BoW2 ordered as in BoW3):
+• Codes used in the research analyisis are :
 
-(1) [1, 2, 1, 1, 2, 1, 1, 0, 0, 0]
+1. Steel Section Properties Calculator: [https://github.com/SourangshuGhosh/Steel\_Sections\_ Properties.](https://github.com/SourangshuGhosh/Steel_Sections_%20Properties.)
 
-(2) [0, 1, 1, 1, 0, 1, 0, 1, 1, 1]
+**IIT Kharagpur**
 
-Each entry of the lists refers to the count of the corresponding entry in the list (this is also the histogram representation). For example, in the first list (which represents document 1), the first two entries are &quot;1,2&quot;:
+**Sharing Economy( Decision Support System)                                                                                                              January 2020 — March 2020**
 
-- The first entry corresponds to the word &quot;John&quot; which is the first word in the list, and its value is &quot;1&quot; because &quot;John&quot; appears in the first document once.
-- The second entry corresponds to the word &quot;likes&quot;, which is the second word in the list, and its value is &quot;2&quot; because &quot;likes&quot; appears in the first document twice.
+• Working under Prof. Swagato Chatterjee, Vinod Gupta School of Management, IIT Kharagpur.in Sharing Economy using text mining.
 
-This list (or vector) representation does not preserve the order of the words in the original sentences. This is just the main feature of the Bag-of-words model.
+• Our study provides implications that help platforms and hosts better target consumer segments with different sharing levels.
 
-Some more repositories developed by me are
+• And also more effectively utilize online reviews to generate positive electronic word of mouth to enhance consumer demand and the performance of platform economics
 
-1. **Genetic Programming for development of CNN Architecture**
-2. **A Model For Topological Defects in Superfluids**
-3. **Evolutionary Deep Neural Networks**
-4. **Structural Reliability**
-5. **Stochastic Seismic Generator**
-6. **Cartesian Genetic Programming**
+• Codes used in the research analyisis are :
+
+1. N-Gram Model [https://github.com/SourangshuGhosh/N-gram](https://github.com/SourangshuGhosh/N-gram).
+
+2. Bag-of-Words-Model [https://github.com/SourangshuGhosh/Bag-of-words-Model](https://github.com/SourangshuGhosh/Bag-of-words-Model)
+
+## **COURSE PROJECTS**
+
+**IIT Kharagpur**
+
+**Introduction to Civil Engineering**
+
+**Wow Dome                                                                                                                                            October2018 — November 2018**
+
+• We designed the construction of a Dome named &quot;Wow Dome&quot; that was assigned as a group project in our course of &quot; Introduction to Civil Engineering Materials&quot;.
+
+• Used Ansys Software which was important to find the structural Response using Finite Element Modelling of the Dome to given loads like wind Load etc. IIT Kharagpur
+
+**Transportation Engineering Lab**
+
+**Developed the code of Fuzzy C-Means Algorithm                                                                                                      August 2018 — September 2018**
+
+• Worked under Prof. Bhargab Maitra,IIT Kharagpur, in a department lab project which involved the development of code of Fuzzy C-Means algorithm in Visual Basics.
+
+• Fuzzy C-Means clustering can be used to improve traffic signal efficacy in an IntelliDrive environment. It can alse be used to classify freeway traffic flow pattern.
+
+## **REMOTE PROJECTS**
+
+**Utah State University,USA Department of Mechanical and Aerospace Engineering Case study in Periodic Hills and Conjugate heat transfer                      April 2020 — present**
+
+• Worked under Prof. Som Dutta, in a Case study in Periodic Hills(in-compressible laminar flow in a two-dimensional periodic hill domain.) and Conjugate heat transfer using Nek5000(a software designed to simulate laminar, transitional, and turbulent incompressible or low Machnumber flows with heat transfer and species transport).
+
+• Our implementation in periodic hills is loosely based on the case presented by Mellen et al. [Mellen2000]. A thorough review for this case can be found in the ERCOFTAC knowledge base wiki.
+
+**Monash University,Australia**
+
+**School of Mathematics Distribution-Free Predictive Inference for Regression                                                                              March 2020 — July 2020**
+
+• We develop a general framework for distribution-free predictive inference in regression, using conformal inference. The proposed methodology allows for the construction of a prediction band for the response variable using any estimator of the regression function.
+
+• We analyze and compare, both empirically and theoretically, the two major variants of our conformal framework: full conformal inference and split conformal inference, along with a related jackknife method.
+
+• We develop a method for constructing valid in-sample prediction intervals called rank-one-out conformal inference, which has essentially the same computational efficiency as split conformal inference.
