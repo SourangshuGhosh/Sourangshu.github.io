@@ -18,7 +18,7 @@ and subset simulation for failure probability computation. The generation of con
 
 - **Machine Learning and Artiﬁcial Neural Networks November 2018 — December 2018**
 
-I have also good experience in Machine Learning and Artiﬁcial Neural Networks in my Internship in CSIR-CDRI where we have to scrap data of HIV articles published by Times of India since 2010 until now and classify them using neural network. Analyze the data, use best possible visualization and then write a report about the state of HIV awareness in India. Finite Element Method October 2018 — November 2018
+I have also good experience in Machine Learning and Artiﬁcial Neural Networks in my Internship in CSIR-CDRI where we have to scrap data of HIV articles published by Times of India since 2010 until now and classify them using neural network. Analyze the data, use best possible visualization and then write a report about the state of HIV awareness in India. 
 
 - **Civil Engineering Design and Modelling**
 
