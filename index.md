@@ -1,6 +1,6 @@
 ## Welcome to My Page
 
-# **About Me**         &nbsp         **[Awards](https://sourangshughosh.github.io/Awards)**   &nbsp    **[Projects](https://sourangshughosh.github.io/Projects)**  
+# **About Me**         >         **[Awards](https://sourangshughosh.github.io/Awards)**   >    **[Projects](https://sourangshughosh.github.io/Projects)**  
 
 ![](https://raw.githubusercontent.com/SourangshuGhosh/SourangshuGhosh.github.io/master/Pictures/me%20(1).jpg)
 
