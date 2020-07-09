@@ -36,7 +36,7 @@ One of the most popular methods to simulate numerically the seismic wave propaga
 The Perfectly Matched Layer(PML) has the remarkable property of having a zero reflection coefficient for all angles of incidence and all frequencies before discretezition and has become widely used( eg Collino and Tsogka 2001). However the reflection coefficient is not zero anymore after the discretezition and becomes even very large at grazing incidence. Therefore an improved version of the PML condition has been developed: the convolution perfectly matched layer condition(CPML) (e.g. Komatitisch and martin 2007). The repository developed is a similar implementation of this in Fortran.
 
 ### For More Details. 
-Please click [here](https://sourangshughosh.github.io/Blogs)
+Please click [here](https://sourangshughosh.github.io/Blogs) <br>
 The links to the Github Repository is[https://github.com/SourangshuGhosh/SeismicAnalyzer](https://github.com/SourangshuGhosh/SeismicAnalyzer)
 
 4. **Steel Section Properties**
