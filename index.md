@@ -2,6 +2,7 @@
 
  **About Me**      &ensp;    &ensp;                **[Awards](https://sourangshughosh.github.io/Awards)**   &ensp; &ensp;  **[Projects](https://sourangshughosh.github.io/Projects)**       &ensp;        &ensp;      **[SoftwaresDeveloped](https://sourangshughosh.github.io/SoftwaresDeveloped)**  &ensp;  &ensp;   **[Skills](https://sourangshughosh.github.io/Skills)**    
 
+
 ![](https://raw.githubusercontent.com/SourangshuGhosh/SourangshuGhosh.github.io/master/Pictures/me%20(1).jpg)
 
 I am a fourth year undergraduate student of the department of civil engineering enrolled in its Dual Degree Program in **Indian institute of Technology Kharagpur, West Bengal, India** mostly knows to all as IIT KGP. I am also doing my minors in Mathematics and Computing in its Master of Science program. Apart from these I have been working under various professors of my university in various research projects. I have been mostly collaborating in my research works with Dr. Baidurya Bhattacharya, Professor, Department of Civil Engineering, IIT KGP.
