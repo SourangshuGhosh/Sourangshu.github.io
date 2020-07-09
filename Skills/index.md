@@ -16,10 +16,10 @@ and subset simulation for failure probability computation. The generation of con
 
 2. Second, we used the text-regression approach,followed by LSA, to investigate the relationship between online reviews and consumer satisfaction and demand. Technically,we used the vector space model for documents,which is a strength of LSA because of its improvement in representing a vector of words in the vector space, compared with traditional vector space models.
 
-**Machine Learning and Artiﬁcial Neural Networks November 2018 — December 2018**
+- **Machine Learning and Artiﬁcial Neural Networks November 2018 — December 2018**
 
 I have also good experience in Machine Learning and Artiﬁcial Neural Networks in my Internship in CSIR-CDRI where we have to scrap data of HIV articles published by Times of India since 2010 until now and classify them using neural network. Analyze the data, use best possible visualization and then write a report about the state of HIV awareness in India. Finite Element Method October 2018 — November 2018
 
-**Civil Engineering Design and Modelling**
+- **Civil Engineering Design and Modelling**
 
 I am also skilled in Solidworks,Ansys.I have used Ansys as an software to do Finite Element Analysis of Laminated Composite Beams and Plates to study the mechanical properties and response of unidirectional E-glass in term of tensile, compression and thermal responses.
