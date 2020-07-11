@@ -1,6 +1,6 @@
 ## Welcome to My Page
 
-2. **FORM( First Order Reliability Methods)**
+1. **FORM( First Order Reliability Methods)**
 
 ![](https://raw.githubusercontent.com/SourangshuGhosh/SourangshuGhosh.github.io/master/Pictures/FORM.jpg)
 <br />The first-order reliability method (FORM) has been widely used in structural reliability estimation applications. The method involves Taylor expansion of the failure function, i.e. the linearization of the limit state equation, not performed around the mean value of the function, but at a point that is called the &#39;most probable failure point&#39;. The selection of an appropriate linearization point is an important consideration (Ang and Tang, 1984), and actually leads to an iterative solving procedure.
