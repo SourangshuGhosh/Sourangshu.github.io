@@ -12,13 +12,13 @@ Below is a list of softwares that I have developed in Fracture Mechanics. They a
 The link to the repositroy is https://github.com/SourangshuGhosh/GeneticProgramming-in-C
 ### Evolutionary Deep Neural Network
 
-![](https://raw.githubusercontent.com/SourangshuGhosh/SourangshuGhosh.github.io/master/Pictures/download2.jpg)
+![](https://raw.githubusercontent.com/SourangshuGhosh/SourangshuGhosh.github.io/master/Pictures/download2.png)
 ,br />Modeling and optimization in many materials related problems routinely involvenoisy,non-lineardatafromdiversesources.Thisnovelalgorithm,nowtested on several problems, eliminates noise and extracts the meaningful trends from such data, using some multi-objective evolutionary algorithms, instead of the existing trainingmethods.Somesmallneuralnetswithﬂexibletopologyandarchitectureare fedwithrandomsubsetsoftheproblemvariables,ensuringthateachvariableisused at least once. They evolve through a tradeoff between two conﬂicting requirements that they should be of maximum accuracy and at the same time of minimum complexity, deﬁned through the number of parameters used. Mathematically, this leads to a Pareto-optimal problem, and the evolutionary algorithms that are used to train them are geared to handle that. These subnets are then assembled using a number of hidden layers; a linear least square algorithm is used for the optimization of the associatedweights
 
 The link to the repository is https://github.com/SourangshuGhosh/Evolutionary-Deep-Neural-Network
 ### Genetic Programming for CNN design
 
-![](https://raw.githubusercontent.com/SourangshuGhosh/SourangshuGhosh.github.io/master/Pictures/download3.jpg)
+![](https://raw.githubusercontent.com/SourangshuGhosh/SourangshuGhosh.github.io/master/Pictures/download3.png)
 <br />The convolutional neural network (CNN), which is one of the deep learning models, has seen much success in a variety of computer vision tasks. However, designing CNN architectures still requires expert knowledge and a lot of trial and error.We attempt to automatically construct CNN architectures for an image classification task based on Cartesian genetic programming (CGP). In our method, we adopt highly functional modules, such as convolutional blocks and tensor concatenation, as the node functions in CGP. The CNN structure and connectivity represented by the CGP encoding method are optimized to maximize the validation accuracy. To evaluate the proposed method, we constructed a CNN architecture for the image classification task with the CIFAR-10 dataset. The experimental result shows that the proposed method can be used to automatically find the competitive CNN architecture compared with state-of-the-art models.
 
 The link to the repository is https://github.com/SourangshuGhosh/CGP-CNN-Design
