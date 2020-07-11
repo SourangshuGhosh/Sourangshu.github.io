@@ -15,7 +15,7 @@ Below is a list of softwares that I have developed in **Machine Learning**. They
 
 An N-gram model is one type of a **Language Model (LM)**, which is about finding the probability distribution over word sequences.
 
-The links to the Github Repository is[https://github.com/SourangshuGhosh/N-gram](https://github.com/SourangshuGhosh/N-gram)
+The links to the Github Repository is [https://github.com/SourangshuGhosh/N-gram](https://github.com/SourangshuGhosh/N-gram)
 
 3. **Bag of Words Model**
 
@@ -32,4 +32,4 @@ Each entry of the lists refers to the count of the corresponding entry in the li
 - The second entry corresponds to the word &quot;likes&quot;, which is the second word in the list, and its value is &quot;2&quot; because &quot;likes&quot; appears in the first document twice.
 
 This list (or vector) representation does not preserve the order of the words in the original sentences. This is just the main feature of the Bag-of-words model.
- The links to the Github Repository is https://github.com/SourangshuGhosh/Bag-of-words-Model
+ The links to the Github Repository is [https://github.com/SourangshuGhosh/Bag-of-words-Model](https://github.com/SourangshuGhosh/Bag-of-words-Model)
