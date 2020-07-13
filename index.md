@@ -1,4 +1,3 @@
-{% raw %}{% seo %}{% endraw %}
 ## Welcome to My Page
 
  **About Me**      &ensp;    &ensp;                **[Awards](https://sourangshughosh.github.io/Awards)**   &ensp; &ensp;  **[Projects](https://sourangshughosh.github.io/Projects)**       &ensp;        &ensp;      **[SoftwaresDeveloped](https://sourangshughosh.github.io/SoftwaresDeveloped)**  &ensp;  &ensp;   **[Skills](https://sourangshughosh.github.io/Skills)**    
