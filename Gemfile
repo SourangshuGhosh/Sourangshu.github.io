@@ -46,4 +46,4 @@ gem 'nokogiri', '~> 1.10.9'
 gem 'rouge', '~> 3.19.0'
 gem 'safe_yaml', '~> 1.0.5'
 gem 'sass', '~> 3.7.4'
-gem 'jekyll-seo-tag'
+gem 'github-pages', group: :jekyll_plugins
