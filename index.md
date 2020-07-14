@@ -1,7 +1,4 @@
----
-title: My page
-layout: default
----
+
 
 
 ## Welcome to My Page
