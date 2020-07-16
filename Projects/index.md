@@ -4,7 +4,8 @@
 
 **IIT Kharagpur**
 
-**Statistical Theory of Strength of Bundles of Threads                                                                                     March 2020 – Present**
+**Statistical Theory of Strength of Bundles of Threads**                                                                                    
+**March 2020 – Present**
 
 • The object of the work is to study the probability distribution of the strength of bundles whose constituent threads are sampled randomly from an infinite population of threads in which the probability distribution of strength is known.
 
