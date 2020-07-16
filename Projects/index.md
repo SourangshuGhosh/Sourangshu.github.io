@@ -15,7 +15,8 @@
 
 **IIT Kharagpur**
 
-**Stochastic modelling and molecular dynamics simulation of fatigue damage in Metals                                                  August 2018 - February 2020**
+**Stochastic modelling and molecular dynamics simulation of fatigue damage in Metals**                                                  
+**August 2018 - February 2020**
 
 • In this research project we aim to stochastic-ally determine the fatigue crack propagation in crucial metal weld joints that are used in Nuclear power plant of IGCAR Kalpakkam.
 
@@ -25,7 +26,8 @@
 
 **CSIR-CMERI Durgapur**
 
-**Stochastic Simulation Algorithm for Robust Reliability Updating of Structural Dynamic Systems                                           May 2018 - July 2018**
+**Stochastic Simulation Algorithm for Robust Reliability Updating of Structural Dynamic Systems**                                           
+**May 2018 - July 2018**
 
 • Worked on an algorithm for updating the robust structural reliability so that any particular response of a structural dynamic system will not reach some specific failure or unfavorable state when it is subjected to future stochastic excitation.
 
@@ -33,7 +35,8 @@
 
 **IISc Bangalore**
 
-**Extraction of Laminar Boundary Layer Parameters from Navier-Stokes Equation                                                          November 2019 - December 2019**
+**Extraction of Laminar Boundary Layer Parameters from Navier-Stokes Equation**                                                          
+**November 2019 - December 2019**
 
 • Extraction of boundary layer parameters and velocity profile data for a flat plate under zero pressure gradient and comparison with exact solution.
 
@@ -41,14 +44,16 @@
 
 **CSIR-CDRI Lucknow**
 
-**Statistics**** November 2018 — December 2018** 
+**Statistics**
+**November 2018 — December 2018** 
 • The objective of the internship was developing new statistical tools which needs to be applied to Biomedical data sets
 
 • We are asked to take one disease,and evaluate every single device approach available for a.Diagnosis b.Monitoring and c.Intervention
 
 **IIT Kharagpur**
 
-**Mechanics of Composite Materials                                                                                                                     May 2019 — July 2019**
+**Mechanics of Composite Materials**                                                                                                                     
+**May 2019 — July 2019**
 
 • Worked under Prof. Suresh Chandra Pradhan,Department of Aerospace Engineering,IIT Kharagpur in using Finite Element Analysis of Laminated Composite Beams and Plates to study the mechanical properties and response of unidirectional E-glass in term of tensile, compression and thermal responses using MATLAB Programming.
 
@@ -56,7 +61,8 @@
 
 **IIT Kharagpur**
 
-**Arbitrary cross-section analysis in python                                                                                                          August 2019 — November 2019**
+**Arbitrary cross-section analysis in python**                                                                                                          
+**August 2019 — November 2019**
 
 • Worked under Prof.Damodar Maity to develop a software written in Python that calculates structural properties for any cross-section imaginable and displays the internal stresses on the section resulting from any combination of design actions.
 
@@ -70,7 +76,8 @@
 
 **IIT Kharagpur**
 
-**Sharing Economy( Decision Support System)                                                                                                              January 2020 — March 2020**
+**Sharing Economy( Decision Support System)**                                                                                                              
+**January 2020 — March 2020**
 
 • Working under Prof. Swagato Chatterjee, Vinod Gupta School of Management, IIT Kharagpur.in Sharing Economy using text mining.
 
@@ -90,7 +97,8 @@
 
 **Introduction to Civil Engineering**
 
-**Wow Dome                                                                                                                                            October2018 — November 2018**
+**Wow Dome**                                                                                                                                            
+**October2018 — November 2018**
 
 • We designed the construction of a Dome named &quot;Wow Dome&quot; that was assigned as a group project in our course of &quot; Introduction to Civil Engineering Materials&quot;.
 
@@ -98,7 +106,8 @@
 
 **Transportation Engineering Lab**
 
-**Developed the code of Fuzzy C-Means Algorithm                                                                                                      August 2018 — September 2018**
+**Developed the code of Fuzzy C-Means Algorithm**                                                                                                      
+**August 2018 — September 2018**
 
 • Worked under Prof. Bhargab Maitra,IIT Kharagpur, in a department lab project which involved the development of code of Fuzzy C-Means algorithm in Visual Basics.
 
@@ -106,15 +115,21 @@
 
 ## **REMOTE PROJECTS**
 
-**Utah State University,USA Department of Mechanical and Aerospace Engineering Case study in Periodic Hills and Conjugate heat transfer                      April 2020 — present**
+**Utah State University**
+**USA Department of Mechanical and Aerospace Engineering** 
+
+**Case study in Periodic Hills and Conjugate heat transfer**                      
+**April 2020 — present**
 
 • Worked under Prof. Som Dutta, in a Case study in Periodic Hills(in-compressible laminar flow in a two-dimensional periodic hill domain.) and Conjugate heat transfer using Nek5000(a software designed to simulate laminar, transitional, and turbulent incompressible or low Machnumber flows with heat transfer and species transport).
 
 • Our implementation in periodic hills is loosely based on the case presented by Mellen et al. [Mellen2000]. A thorough review for this case can be found in the ERCOFTAC knowledge base wiki.
 
 **Monash University,Australia**
+**School of Mathematics**
 
-**School of Mathematics Distribution-Free Predictive Inference for Regression                                                                              March 2020 — July 2020**
+**Distribution-Free Predictive Inference for Regression**                                                                              
+**March 2020 — July 2020**
 
 • We develop a general framework for distribution-free predictive inference in regression, using conformal inference. The proposed methodology allows for the construction of a prediction band for the response variable using any estimator of the regression function.
 
