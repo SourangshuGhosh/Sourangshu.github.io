@@ -45,6 +45,7 @@
 **CSIR-CDRI Lucknow**
 
 **Statistics**
+
 **November 2018 — December 2018** 
 • The objective of the internship was developing new statistical tools which needs to be applied to Biomedical data sets
 
