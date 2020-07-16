@@ -26,6 +26,6 @@ The links to the Github Repository is [https://github.com/SourangshuGhosh/Bayesi
 
 4. **AbstractGPs**
 
-AbstractGPs.jl is a package that defines a low-level API for working with Gaussian processes (GPs), and basic functionality for working with them in the simplest cases. As such it is aimed more at developers and researchers who are interested in using it as a building block than end-users of GPs. This pakage is written entirely in Julia. https://raw.githubusercontent.com/SourangshuGhosh/AbstractGPs.jl/master/gp.gif
+AbstractGPs.jl is a package that defines a low-level API for working with Gaussian processes (GPs), and basic functionality for working with them in the simplest cases. As such it is aimed more at developers and researchers who are interested in using it as a building block than end-users of GPs. This pakage is written entirely in Julia. ![GP](https://raw.githubusercontent.com/SourangshuGhosh/AbstractGPs.jl/master/gp.gif)
 
 The links to the Github Repository is [https://github.com/SourangshuGhosh/AbstractGPs.jl](https://github.com/SourangshuGhosh/AbstractGPs.jl)
