@@ -31,3 +31,13 @@ AbstractGPs.jl is a package that defines a low-level API for working with Gaussi
 ![GP](https://raw.githubusercontent.com/SourangshuGhosh/AbstractGPs.jl/master/gp.gif)
 
 The links to the Github Repository is [https://github.com/SourangshuGhosh/AbstractGPs.jl](https://github.com/SourangshuGhosh/AbstractGPs.jl)
+
+5.  **Variational Inference for Stochastic Differential Equations**
+
+Parameter inference for stochastic differential equations is challenging due to the presence of a latent diffusion process. Working with an Euler-Maruyama discretisation for the diffusion, we use variational inference to jointly learn the parameters and the diffusion paths. We use a standard mean-field variational approximation of the parameter posterior, and introduce a recurrent neural network to approximate the posterior for the diffusion paths conditional on the parameters. This neural network learns how to provide Gaussian state transitions which bridge between observations in a very similar way to the conditioned diffusion process. The resulting black-box inference method can be applied to any SDE system with light tuning requirements. This code is a Tensorflow implementation of the Lotka-Volterra example detailed in Black-box Variational Inference for Stochastic Differential Equations (ICML, 2018), by Tom Ryder, Andy Golightly, Stephen McGough and Dennis Prangle.
+
+#### Visualisation
+By saving the paths produced in training (not something the model will presently do by default), we can watch the model learn the latent diffusion process:
+![](https://raw.githubusercontent.com/SourangshuGhosh/VIforSDEs/master/figs/LV_paths.gif)
+
+
