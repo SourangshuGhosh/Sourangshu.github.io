@@ -1,2 +1,2 @@
-# SourangshuGhosh.github.io
-My Personal Website
+# SourangshuGhosh
+Sourangshu Ghosh Personal Webpage
