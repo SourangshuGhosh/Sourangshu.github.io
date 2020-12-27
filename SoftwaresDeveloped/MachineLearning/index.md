@@ -34,7 +34,7 @@ Each entry of the lists refers to the count of the corresponding entry in the li
 This list (or vector) representation does not preserve the order of the words in the original sentences. This is just the main feature of the Bag-of-words model.
  The links to the Github Repository is [https://github.com/SourangshuGhosh/Bag-of-words-Model](https://github.com/SourangshuGhosh/Bag-of-words-Model)
 
-### 4. **Quantum Computing**
+###  4. **Quantum Computing**
 
 Quantum computing is the use of quantum phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.I-5 Quantum computers are believed to be able to solve certain computational problems, such as integer factorization (which underlies RSA encryption), substantially faster than classical computers. The study of quantum computing is a subfield of quantum information science.There are several models of quantum computers (or rather, quantum computing systems), including the quantum circuit model, quantum Turing machine, adiabatic quantum computer, one-way quantum computer, and various quantum cellular automata. The most widely used model is the quantum circuit. Quantum circuits are based on the quantum bit, or "qubit", which is somewhat analogous to the bit in classical computation. Qubits can be in a 1 or 0 quantum state, or they can be in a superposition of the 1 and 0 states. However, when qubits are measured the result of the measurement is always either a 0 or a 1; the probabilities of these two outcomes depend on the quantum state that the qubits were in immediately prior to the measurement.
 
