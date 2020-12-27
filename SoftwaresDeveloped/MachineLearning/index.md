@@ -40,4 +40,4 @@ Quantum computing is the use of quantum phenomena such as superposition and enta
 
 This is an implementation of IBM's Quantum Experience in simulation; a 5-qubit quantum computer with a limited set of gates "the world’s first quantum computing platform delivered via the IBM Cloud". Their implementation is available at http://www.research.ibm.com/quantum/.
 
- The links to the Github Repository is [https://github.com/SourangshuGhosh/Bag-of-words-Model](https://github.com/SourangshuGhosh/QuantumComputing)
+ The links to the Github Repository is [https://github.com/SourangshuGhosh/QuantumComputing](https://github.com/SourangshuGhosh/QuantumComputing)
