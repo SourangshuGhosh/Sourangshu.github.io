@@ -44,4 +44,5 @@ This is an implementation of IBM's Quantum Experience in simulation; a 5-qubit q
  
  5. **Voice Conversion by Deep Learning"
  
+ ![](https://raw.githubusercontent.com/SourangshuGhosh/SourangshuGhosh.github.io/master/Pictures/KateWinslet.png)
  What if you could imitate a famous celebrity's voice or sing like a famous singer? This project started with a goal to convert someone's voice to a specific target voice. So called, it's voice style transfer. We worked on this project that aims to convert someone's voice to a famous English actress Kate Winslet's voice. We implemented a deep neural networks to achieve that and more than 2 hours of audio book sentences read by Kate Winslet are used as a dataset.
