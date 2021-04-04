@@ -1,6 +1,6 @@
 ## Welcome to My Page
 
-## **About Me**      &ensp;    &ensp;                **[Awards](https://sourangshughosh.github.io/Awards)**   &ensp; &ensp;  **[Projects](https://sourangshughosh.github.io/Projects)**       &ensp;        &ensp;      **[SoftwaresDeveloped](https://sourangshughosh.github.io/SoftwaresDeveloped)**  &ensp;  &ensp;   **Skills**   &ensp;        &ensp;     **[Certificates](https://sourangshughosh.github.io/Certificates)**
+## **[About Me](https://sourangshughosh.github.io)**      &ensp;    &ensp;                **[Awards](https://sourangshughosh.github.io/Awards)**   &ensp; &ensp;  **[Projects](https://sourangshughosh.github.io/Projects)**       &ensp;        &ensp;      **[SoftwaresDeveloped](https://sourangshughosh.github.io/SoftwaresDeveloped)**  &ensp;  &ensp;   **Skills**   &ensp;        &ensp;     **[Certificates](https://sourangshughosh.github.io/Certificates)**
 
 # **Skills**
 
