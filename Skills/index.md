@@ -1,5 +1,7 @@
 ## Welcome to My Page
 
+## **About Me**      &ensp;    &ensp;                **[Awards](https://sourangshughosh.github.io/Awards)**   &ensp; &ensp;  **[Projects](https://sourangshughosh.github.io/Projects)**       &ensp;        &ensp;      **[SoftwaresDeveloped](https://sourangshughosh.github.io/SoftwaresDeveloped)**  &ensp;  &ensp;   **Skills**   &ensp;        &ensp;     **[Certificates](https://sourangshughosh.github.io/Certificates)**
+
 # **Skills**
 
 - **Stochastic Simulation and Simulation of Stochastic Process May 2018 — July 2018 and August 2018 - March 2020**
