@@ -1,5 +1,7 @@
 ## Welcome to My Page
 
+## **[About Me](https://sourangshughosh.github.io)**      &ensp;    &ensp;                **Award**   &ensp; &ensp;  **[Projects](https://sourangshughosh.github.io/Projects)**       &ensp;        &ensp;      **[SoftwaresDeveloped](https://sourangshughosh.github.io/SoftwaresDeveloped)**  &ensp;  &ensp;   **[Skills](https://sourangshughosh.github.io/Skills)**   &ensp;        &ensp;     **[Certificates](https://sourangshughosh.github.io/Certificates)**
+
 # **Awards**
 
 - **KVS-Junior Mathematical Olympiad 2014 September 2014**
