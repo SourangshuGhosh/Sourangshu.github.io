@@ -1,6 +1,8 @@
-## Welcome to My Page
+# Welcome to My Page
 
-# **Projects Done**
+## **[About Me](https://sourangshughosh.github.io)**      &ensp;    &ensp;                **[Awards](https://sourangshughosh.github.io/Awards)**   &ensp; &ensp;  **Projects**       &ensp;        &ensp;      **[SoftwaresDeveloped](https://sourangshughosh.github.io/SoftwaresDeveloped)**  &ensp;  &ensp;   **[Skills](https://sourangshughosh.github.io/Skills)**   &ensp;        &ensp;     **[Certificates](https://sourangshughosh.github.io/Certificates)**
+
+## **Projects Done**
 
 **IIT Kharagpur**
 
